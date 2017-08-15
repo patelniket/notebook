@@ -1,3 +1,3 @@
 ## Git Basics
 
-- #### [Reverting and Undoing changes](revert-undo-changes.md)
+- [Reverting and Undoing changes](revert-undo-changes.md)
