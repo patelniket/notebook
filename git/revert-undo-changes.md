@@ -1,4 +1,4 @@
-##Reverting file in git repository to previous state
+## Reverting file in git repository to previous state
 
 When you do git checkout ```commit_id``` you will checkout the commit in a detached ```HEAD``` state where the ```HEAD``` will be pointing to the ```commit_id```.
 
